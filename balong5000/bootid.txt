@@ -1,0 +1,29 @@
+        0xE3EE8915, 0x003A713C, 0x4071C6ED, 0xA1E00551,
+USB_boot!
+snpsid: 0x33313130
+usb: online (highspeed)
+file_address_raminit:00040000
+SEB_XloaderVerification error.
+secure_verification error: error_code == 0xF1000006
+
+onchip
+SEB_SecureInit OK, lcs = 5
+SOC_ID: 0x620775C8, 0x971F6B99, 0x3D38FBB9, 0xACB180B1,
+        0xE3EE8915, 0x003A713C, 0x4071C6ED, 0xA1E00551,
+USB_boot!
+snpsid: 0x33313130
+usb: online (highspeed)
+file_address_raminit:00040000
+SEB_XloaderVerification error.
+secure_verification error: error_code == 0xF1000007
+
+onchip
+SEB_SecureInit OK, lcs = 5
+SOC_ID: 0x620775C8, 0x971F6B99, 0x3D38FBB9, 0xACB180B1,
+        0xE3EE8915, 0x003A713C, 0x4071C6ED, 0xA1E00551,
+USB_boot!
+snpsid: 0x33313130
+usb: online (highspeed)
+file_address_raminit:00040000
+SEB_XloaderVerification error.
+secure_verification error: error_code == 0xF100001C
